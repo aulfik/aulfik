@@ -1,10 +1,10 @@
 Hi 👋 My name is Aulia Fikri
 ============================
 
-Junior Data Scientist
+Data Scientist Enthusiast
 ---------------------
 
-I'm Bachelor of Engineering, i'm learning code WebDev. But my background study focus in Earth Data Sciencist, Ya i'm enjoy it!
+I'm Bachelor of Engineering, i'm learning code WebDev. But my background study focus in Data Sciencist/Earth Data Scientist, Ya i'm enjoy it!
 
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [MyWebsite](http://auliafikri.engineer)
