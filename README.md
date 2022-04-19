@@ -8,8 +8,8 @@ I'm Bachelor of Engineering, i'm learning code WebDev. But my background study f
 
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [MyWebsite](http://auliafikri.engineer)
-* ✉️  You can contact me at [me@auliafikri.engineer](mailto:me@auliafikri.engineer)
-* 🧠  I'm currently learning Data Scientist with Python and Next.js to build my web
+* ✉️  You can contact me at [me@auliafikri.engineer](mailto:me@auliafikri.engineer) or [auautori@gmail.com](mailto:auautori@gmail.com)
+* 🧠  I'm currently learning Data Science with Python and Next.js to build my web
 
 <a href="https://www.twitter.com/fakteng" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/fakteng?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
