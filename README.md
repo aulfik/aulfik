@@ -12,7 +12,7 @@ I'm Bachelor of Engineering, i'm learning code WebDev. But my background study f
 * 🧠  I'm currently learning Data Science with Python and Next.js to build my web
 
 <a href="https://www.twitter.com/aul_fik" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/fakteng?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/aul_fik?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
