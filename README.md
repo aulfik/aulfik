@@ -7,7 +7,7 @@ Data Scientist Enthusiast
 I'm Bachelor of Engineering, i'm learning code WebDev. But my background study focus in Data Sciencist/Earth Data Scientist, Ya i'm enjoy it!
 
 * 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [MyWebsite](http://auliafikri.engineer)
+* 🖥️  See my portfolio at <a href="http://auliafikri.engineer/" target="_blank">MyWebsite</a>
 * ✉️  You can contact me at [me@auliafikri.engineer](mailto:me@auliafikri.engineer) or [auautori@gmail.com](mailto:auautori@gmail.com)
 * 🧠  I'm currently learning Data Science with Python and Next.js to build my web
 
