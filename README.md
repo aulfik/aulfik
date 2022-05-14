@@ -5,7 +5,6 @@ Software Engineer | Open-Source Developer | Data Science Enthusiast
 ---------------------
 
 A human that always trying to learn something extraordinary, something that could be useful for me and people around the world. Passionate in programming, data, and learning. For me, learning is the most interesting thing in the world.
-I'm Bachelor of Engineering, i'm learning code WebDev. But my background study focus in Data Sciencist/Earth Data Scientist, Ya i'm enjoy it!
 
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at <a href="http://auliafikri.engineer/" target="_blank">MyWebsite</a>
