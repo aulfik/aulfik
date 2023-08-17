@@ -14,7 +14,6 @@ A human that always trying to learn something extraordinary, something that coul
 src="https://img.shields.io/twitter/follow/aul_fik?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
-<a href="https://www.auliafikri.engineer/" target="_blank" rel="noreferrer"><img alt="Website" src="https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fwww.auliafikri.engineer%2F"></a>
 
 
 ### Skills
