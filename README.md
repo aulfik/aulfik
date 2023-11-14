@@ -1,7 +1,7 @@
 Hi 👋 My name is Aulia Fikri
 ============================
 
-Software Engineer | Open-Source Developer | Data Science Enthusiast
+Engineer | Open-Source Developer | Data Science Enthusiast
 ---------------------
 
 A human that always trying to learn something extraordinary, something that could be useful for me and people around the world. Passionate in programming, data, and learning. For me, learning is the most interesting thing in the world.
