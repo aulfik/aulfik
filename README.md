@@ -8,7 +8,7 @@ A human that always trying to learn something extraordinary, something that coul
 
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at <a href="https://website-rosy-mu.vercel.app/" target="_blank">my broken website</a>
-* ✉️  You can contact me at [me@auliafikri.engineer](mailto:me@auliafikri.engineer) or [auautori@gmail.com](mailto:auautori@gmail.com)
+* ✉️  You can contact me at [auliafikri@civil.untan.ac.id](mailto:auliafikri@civil.untan.ac.id) or [auautori@gmail.com](mailto:auautori@gmail.com)
 
 <a href="https://www.twitter.com/aul_fik" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/aul_fik?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
